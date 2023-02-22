@@ -1,0 +1,5 @@
+.python-version
+.envrc
+.vscode/
+*.txt
+*.json
